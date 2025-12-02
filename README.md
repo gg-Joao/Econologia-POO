@@ -1,5 +1,5 @@
 # Econologia---POO
-📘 Econologia
+#📘 Econologia
 Documentação do projeto desenvolvido como atividade da disciplina de Programação orientada a objetos no Curso Técnico em Informática para Internet – IFRN, Campus Natal-Central.
 
 
