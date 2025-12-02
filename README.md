@@ -3,15 +3,6 @@
 Documentação do projeto desenvolvido como atividade da disciplina de Programação orientada a objetos no Curso Técnico em Informática para Internet – IFRN, Campus Natal-Central.
 
 
-### 👥 Público-Alvo
-
-* Moradores de áreas urbanas
-* Prefeituras e secretarias de meio ambiente
-* Cooperativas de reciclagem
-* ONGs ambientais
-
-
-
 ## 👨‍💻 Equipe
 
 * Adryel Ferreira Félix - 20231011110023
