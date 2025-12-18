@@ -7,3 +7,4 @@ class Admin:
 
     def __str__(self):
         return f"Admin: {self.nome}"
+    

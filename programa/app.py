@@ -51,7 +51,8 @@ if menu == "Cadastro Morador":
     senha = st.text_input("Senha", type="password")
 
     if st.button("Cadastrar"):
-        MoradorDAO.inserir(Morador(nome, email, fone, senha=senha))
+        morador = Morador(nome, email, fone, senha=senha)
+        MoradorDAO.inserir(morador)
         st.success("Morador cadastrado com sucesso!")
 
 

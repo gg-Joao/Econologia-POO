@@ -10,7 +10,7 @@ class MoradorDAO:
         cursor.execute("""
             INSERT INTO morador (nome, email, fone, pontos, senha)
             VALUES (?, ?, ?, ?, ?)
-        """, (obj.nome, obj.email, obj.fone, obj.pontos, obj.senha))
+        """, (obj.get_nome(), obj.get_email(), obj.get_fone(), obj.get_pontos(), obj.get_senha()))
         conn.commit()
         conn.close()
     
